@@ -1,12 +1,5 @@
 # EMPLOYEE-MANAGEMENT-USING-DOUBLY-LINKED-LIST
 
-# Attempting to create and save the README file for the Employee Management System project again.
-
-# Saving the employee management README content to a README.md file.
-
-readme_employee_content = """
-# Employee Management System
-
 This project is an Employee Management System implemented in C, utilizing a doubly linked list data structure. The application allows users to manage employee records with functionalities to add, display, update, search, sort, and delete employee details. Each record includes an employee ID, name, designation, salary, mobile number, email, and birthdate.
 
 ## Features
